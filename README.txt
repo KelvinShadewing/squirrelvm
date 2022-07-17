@@ -1,10 +1,10 @@
 /*=================================*\
-| SIMPLE SQUIRREL VM				|
-|									|
-| AUTHOR: Kelvin Shadewing			|
-|									|
+| SIMPLE SQUIRREL VM                |
+|                                   |
+| AUTHOR: Kelvin Shadewing          |
+|	                                  |
 | WEBSITE: www.kelvinshadewing.net	|
-|									|
+|	                                  |
 | LICENSE: GPL v3.0                 |
 \*=================================*/
 
