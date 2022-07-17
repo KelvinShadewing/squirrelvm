@@ -1,0 +1,1 @@
+print("Enter the name of the file you want to run.\nIf you do not include an extension, the VM will try checking '.nut' and '.sq' for you. Enter 'quit' or 'exit' to close the VM.\nYou may use folders by using a slash (/) to separate directories.");
